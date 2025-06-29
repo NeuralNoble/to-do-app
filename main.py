@@ -5,7 +5,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse
 from sqlalchemy.orm import Session
 from datetime import timedelta
-from typing import List , Optional
+from typing import List
 
 # Import modules
 from database import get_db
