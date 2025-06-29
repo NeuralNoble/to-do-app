@@ -1,0 +1,2 @@
+# to-do-app
+I am making a to-do-app for the purpose of learning fastapi and how to connect it to simple frontend . i have also thought of adding some simple ai features to convert it to a full-stack project
